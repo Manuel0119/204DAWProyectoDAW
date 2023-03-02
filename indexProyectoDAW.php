@@ -20,6 +20,7 @@
                 <li><a href="doc/ResolucionDNS-ManuelMartínAlonso.pdf" target="_blank" title="DNS">Tema 4: DNS</a></li>
                 <li><a href="https://github.com/Manuel0119/204DAWProyectoDAW" target="_blank" title="Control de versiones">Tema 5: Control de versiones</a></li>
                 <li><a href="doc/Tomcat.pdf" target="_blank" title="Configuración y administración de servidores de aplicaciones">Tema 6: Configuración y administración de servidores de aplicaciones</a></li>
+                <li><a href="doc/phpdoc/index.html" target="_blank" title="Documentación">Tema 7: Documentación</a></li>
             </ul>
         </div>
         <footer>
